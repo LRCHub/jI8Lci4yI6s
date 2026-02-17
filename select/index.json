@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Vox Populi",
+  "base_artist": "Sepultura",
+  "createdAt": "2026-02-17T15:56:48.065859Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Vox Populi",
+      "artist": "Sepultura",
+      "has_synced": true,
+      "path": "select/01_Vox_Populi_Sepultura.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Vox Populi",
+      "artist": "Thirty Seconds To Mars",
+      "has_synced": true,
+      "path": "select/02_Vox_Populi_Thirty_Seconds_To_Mars.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Vox Populi",
+      "artist": "30 Seconds To Mars",
+      "has_synced": true,
+      "path": "select/03_Vox_Populi_30_Seconds_To_Mars.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Vox Populi",
+      "artist": "30 Seconds To Mars",
+      "has_synced": true,
+      "path": "select/04_Vox_Populi_30_Seconds_To_Mars.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Vox Populi (Instrumentals)",
+      "artist": "Thirty Seconds to Mars",
+      "has_synced": true,
+      "path": "select/05_Vox_Populi_(Instrumentals)_Thirty_Seconds_to_Mars.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Vox Populi",
+      "artist": "Gravemind",
+      "has_synced": false,
+      "path": "select/06_Vox_Populi_Gravemind.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Vox Populi",
+      "artist": "Thirty Seconds To Mars",
+      "has_synced": true,
+      "path": "select/07_Vox_Populi_Thirty_Seconds_To_Mars.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Vox Populi",
+      "artist": "Thirty Seconds to Mars",
+      "has_synced": true,
+      "path": "select/08_Vox_Populi_Thirty_Seconds_to_Mars.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Vox Populi",
+      "artist": "Mikael Gabriel feat. nublu",
+      "has_synced": true,
+      "path": "select/09_Vox_Populi_Mikael_Gabriel_feat._nublu.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Vox Populi",
+      "artist": "Mikael Gabriel, Nublu",
+      "has_synced": true,
+      "path": "select/10_Vox_Populi_Mikael_Gabriel,_Nublu.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Vox Populi (Lifelike Treatment)",
+      "artist": "Jupiter",
+      "has_synced": true,
+      "path": "select/11_Vox_Populi_(Lifelike_Treatment)_Jupiter.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "05 - Vox Populi",
+      "artist": "Sepultura",
+      "has_synced": true,
+      "path": "select/12_05_-_Vox_Populi_Sepultura.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Vox Populi (El Circo)",
+      "artist": "Régulo Caro",
+      "has_synced": true,
+      "path": "select/13_Vox_Populi_(El_Circo)_Régulo_Caro.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Vox Populi",
+      "artist": "Sepultura",
+      "has_synced": false,
+      "path": "select/pl_01_Vox_Populi_Sepultura.txt"
+    }
+  ]
+}
